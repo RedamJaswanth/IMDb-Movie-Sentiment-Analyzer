@@ -1,0 +1,10 @@
+transformers
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+torch
+scikit-learn
+matplotlib
+gradio
